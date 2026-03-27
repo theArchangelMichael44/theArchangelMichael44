@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🐉 Alpha Dragon System
+# 🐉 Alpha Omega Dragon System
 
 **Simulation-Driven Intelligence | Full-Stack System Architecture | Emergent Physics Engine**
 
